@@ -12,5 +12,5 @@ rss: /atom.xml
 
 # Nav menu
 menu:
-  Home:   /
-  RSS:    /atom.xml
+  Home: /
+  RSS: /atom.xml

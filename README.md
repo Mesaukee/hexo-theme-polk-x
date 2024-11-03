@@ -4,7 +4,7 @@
 
 ## Preview
 
-![preview](https://github.com/Mesaukee/hexo-theme-polk-x/blob/master/preview.png?raw=true)
+![preview](https://github.com/Mesaukee/hexo-theme-polk-x/blob/main/preview.png)
 
 ## Install
 
@@ -14,19 +14,25 @@ git clone https://github.com/Mesaukee/hexo-theme-polk-x.git themes/polk-x
 ```
 
 ### 修改主题
+
 修改博客根目录下`_config.yml`
+
 ```
 theme: polk-x
 ```
+
 为了更好的显示效果,请将页面渲染文章数量`per_page`改为20(默认为10).
 
 ## 添加RSS订阅
+
 * 安装RSS插件
+
 ```shell
 npm install hexo-generator-feed
 ```
 
 * 修改博客根目录下`_config.yml`
+
 ```yml
 # RSS
 rss: true
